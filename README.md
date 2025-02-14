@@ -16,6 +16,8 @@ pip install mayavi PyQt5
 pip install qiskit-aer
 
 # librerias (Ingles)
+https://github.com/Qiskit/qiskit-aer
+
 https://quantumai.google/cirq
 
 https://pennylane.ai/
@@ -27,6 +29,8 @@ https://nbviewer.org/urls/qutip.org/qutip-tutorials/tutorials-v5/python-introduc
 https://docs.ocean.dwavesys.com/en/stable/getting_started.html
 
 https://docs.quantum.ibm.com/guides
+
+https://docs.quantinuum.com/tket/
 
 
 
