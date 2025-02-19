@@ -16,6 +16,8 @@ pip install mayavi PyQt5
 pip install qiskit-aer
 
 # librerias (Ingles)
+https://docs.quantum.ibm.com/guides/processor-types
+
 https://github.com/Qiskit/qiskit-aer
 
 https://quantumai.google/cirq
